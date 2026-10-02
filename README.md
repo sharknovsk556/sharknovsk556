@@ -2,7 +2,7 @@
 
 **`Iniciante`**
 
-Me chamo Leonardo Figueiredo Dantas, tenho 20 anos e sou natural do Paraná. Concluí o ensino médio no IFRS, com o curso técnico em informática e acho muito bacana essa parada de tecnologia.
+Me chamo Leonardo Figueiredo Dantas, tenho 20 anos e sou natural do Paraná. e acho muito bacana essa parada de Code:)
 
 <p align="left">
     <a href="https://www.instagram.com/sharknovsk/">
